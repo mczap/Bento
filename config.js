@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Guten Morgen!',
+	greetingAfternoon: 'Guten Tag,',
+	greetingEvening: 'Guten Abend,',
+	greetingNight: 'Geh schlafen!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -94,13 +94,13 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://play.qobuz.com/login',
 		},
 		{
 			id: '2',
-			name: 'twitter',
+			name: 'mastodon',
 			icon: 'twitter',
-			link: 'https://twitter.com/',
+			link: 'https://infosec.exchange/home',
 		},
 		{
 			id: '3',
@@ -110,9 +110,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Amazon',
+			name: 'Digitec',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://digitec.ch/',
 		},
 		{
 			id: '5',
