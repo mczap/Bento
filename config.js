@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/mczap/',
 		},
 		{
 			id: '2',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Weekly Q',
+					link: 'https://play.qobuz.com/dynamic-list/weekly',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ECM Atmospheres',
+					link: 'https://open.qobuz.com/playlist/1655913',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hi-Res Masters',
+					link: 'https://open.qobuz.com/playlist/14849413',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Classical for Working',
+					link: 'https://open.qobuz.com/playlist/1371368',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'News',
+					link: 'https://watson.ch/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Tagi',
+					link: 'https://www.tagesanzeiger.ch/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'My News Feed',
+					link: 'https://feedly.com/i/my',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Reddit',
+					link: 'https://www.reddit.com/',
 				},
 			],
 		},
