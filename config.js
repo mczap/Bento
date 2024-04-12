@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/mczap/',
+			name: 'Music',
+			icon: 'headphones',
+			link: 'https://play.qobuz.com/login',
 		},
 		{
 			id: '2',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Mstodon',
+			icon: 'twitter',
+			link: 'https://infosec.exchange/home',
 		},
 		{
 			id: '4',
