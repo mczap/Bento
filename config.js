@@ -170,7 +170,7 @@ const CONFIG = {
 				},
 				{
 					name: 'My News Feed',
-					link: 'https://feedly.com/i/my',
+					link: 'https://feedly.com/v3/auth/login/checkEmail?',
 				},
 				{
 					name: 'Reddit',
